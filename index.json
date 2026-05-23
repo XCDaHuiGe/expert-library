@@ -1,0 +1,43 @@
+{
+  "version": "1.0",
+  "last_updated": "2025-05-17",
+  "categories": {
+    "business": {
+      "name": "商业管理",
+      "experts": ["peter-drucker", "jim-collins", "inamori-kazuo", "michael-porter", "clayton-christensen", "jack-welch"]
+    },
+    "psychology": {
+      "name": "心理学",
+      "experts": ["daniel-kahneman", "philip-zimbardo", "martin-seligman", "daniel-goleman", "stanislas-dehaene"]
+    },
+    "philosophy": {
+      "name": "文学哲学",
+      "experts": ["friedrich-nietzsche", "jean-paul-sartre", "albert-camus", "arthur-schopenhauer", "milan-kundera", "italo-calvino"]
+    },
+    "technology": {
+      "name": "科技AI",
+      "experts": ["kevin-kelly", "ray-kurzweil", "yuval-harari", "wu-jun", "nick-bostrom"]
+    },
+    "history": {
+      "name": "历史传记",
+      "experts": ["huang-renyu", "stavrianos", "stefan-zweig"]
+    },
+    "self-help": {
+      "name": "自助成长",
+      "experts": ["stephen-covey", "malcolm-gladwell", "dale-carnegie", "napoleon-hill"]
+    },
+    "economics": {
+      "name": "经济金融",
+      "experts": ["warren-buffett", "charlie-munger", "ray-dalio", "nassim-taleb", "robert-shiller"]
+    },
+    "science": {
+      "name": "科学科普",
+      "experts": ["stephen-hawking", "richard-dawkins", "carl-sagan", "richard-feynman", "jared-diamond"]
+    },
+    "cross-domain": {
+      "name": "跨界专家",
+      "experts": ["socrates", "laozi", "steve-jobs", "alan-turing", "wan-weigang"]
+    }
+  },
+  "experts": {}
+}
