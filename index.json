@@ -66,6 +66,24 @@
       "theories": 6,
       "quotes": 9,
       "trained_date": "2025-05-24"
+    },
+    "michael-porter": {
+      "name": "迈克尔·波特",
+      "name_en": "Michael Porter",
+      "category": "business",
+      "status": "L1_complete",
+      "theories": 5,
+      "quotes": 8,
+      "trained_date": "2025-05-24"
+    },
+    "clayton-christensen": {
+      "name": "克莱顿·克里斯坦森",
+      "name_en": "Clayton Christensen",
+      "category": "business",
+      "status": "L1_complete",
+      "theories": 6,
+      "quotes": 8,
+      "trained_date": "2025-05-24"
     }
   }
 }
