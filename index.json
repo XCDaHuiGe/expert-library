@@ -120,6 +120,24 @@
       "theories": 5,
       "quotes": 8,
       "trained_date": "2025-05-24"
+    },
+    "daniel-goleman": {
+      "name": "丹尼尔·戈尔曼",
+      "name_en": "Daniel Goleman",
+      "category": "psychology",
+      "status": "L1_complete",
+      "theories": 5,
+      "quotes": 8,
+      "trained_date": "2025-05-24"
+    },
+    "stanislas-dehaene": {
+      "name": "斯坦尼斯拉斯·迪昂",
+      "name_en": "Stanislas Dehaene",
+      "category": "psychology",
+      "status": "L1_complete",
+      "theories": 5,
+      "quotes": 10,
+      "trained_date": "2025-05-24"
     }
   }
 }
