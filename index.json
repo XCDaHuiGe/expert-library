@@ -84,6 +84,15 @@
       "theories": 6,
       "quotes": 8,
       "trained_date": "2025-05-24"
+    },
+    "jack-welch": {
+      "name": "杰克·韦尔奇",
+      "name_en": "Jack Welch",
+      "category": "business",
+      "status": "L1_complete",
+      "theories": 6,
+      "quotes": 9,
+      "trained_date": "2025-05-24"
     }
   }
 }
