@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2025-05-17",
+  "last_updated": "2025-05-24",
   "categories": {
     "business": {
       "name": "商业管理",
@@ -39,5 +39,33 @@
       "experts": ["socrates", "laozi", "steve-jobs", "alan-turing", "wan-weigang"]
     }
   },
-  "experts": {}
+  "experts": {
+    "peter-drucker": {
+      "name": "彼得·德鲁克",
+      "name_en": "Peter Drucker",
+      "category": "business",
+      "status": "L1_complete",
+      "theories": 4,
+      "quotes": 7,
+      "trained_date": "2025-05-17"
+    },
+    "jim-collins": {
+      "name": "吉姆·柯林斯",
+      "name_en": "Jim Collins",
+      "category": "business",
+      "status": "L1_complete",
+      "theories": 8,
+      "quotes": 8,
+      "trained_date": "2025-05-24"
+    },
+    "inamori-kazuo": {
+      "name": "稻盛和夫",
+      "name_en": "Kazuo Inamori",
+      "category": "business",
+      "status": "L1_complete",
+      "theories": 6,
+      "quotes": 9,
+      "trained_date": "2025-05-24"
+    }
+  }
 }
