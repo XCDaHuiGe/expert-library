@@ -93,6 +93,33 @@
       "theories": 6,
       "quotes": 9,
       "trained_date": "2025-05-24"
+    },
+    "daniel-kahneman": {
+      "name": "丹尼尔·卡尼曼",
+      "name_en": "Daniel Kahneman",
+      "category": "psychology",
+      "status": "L1_complete",
+      "theories": 6,
+      "quotes": 8,
+      "trained_date": "2025-05-24"
+    },
+    "philip-zimbardo": {
+      "name": "菲利普·津巴多",
+      "name_en": "Philip Zimbardo",
+      "category": "psychology",
+      "status": "L1_complete",
+      "theories": 5,
+      "quotes": 8,
+      "trained_date": "2025-05-24"
+    },
+    "martin-seligman": {
+      "name": "马丁·塞利格曼",
+      "name_en": "Martin Seligman",
+      "category": "psychology",
+      "status": "L1_complete",
+      "theories": 5,
+      "quotes": 8,
+      "trained_date": "2025-05-24"
     }
   }
 }
