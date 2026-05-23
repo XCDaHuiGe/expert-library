@@ -138,6 +138,106 @@
       "theories": 5,
       "quotes": 10,
       "trained_date": "2025-05-24"
+    },
+    "friedrich-nietzsche": {
+      "name": "弗里德里希·尼采",
+      "name_en": "Friedrich Nietzsche",
+      "category": "philosophy",
+      "status": "L1_complete",
+      "theories": 5,
+      "quotes": 10,
+      "trained_date": "2025-05-24",
+      "score": 100
+    },
+    "jean-paul-sartre": {
+      "name": "让-保罗·萨特",
+      "name_en": "Jean-Paul Sartre",
+      "category": "philosophy",
+      "status": "L1_complete",
+      "theories": 6,
+      "quotes": 10,
+      "trained_date": "2025-05-24",
+      "score": 85
+    },
+    "albert-camus": {
+      "name": "阿尔贝·加缪",
+      "name_en": "Albert Camus",
+      "category": "philosophy",
+      "status": "L1_complete",
+      "theories": 6,
+      "quotes": 10,
+      "trained_date": "2025-05-24",
+      "score": 85
+    },
+    "arthur-schopenhauer": {
+      "name": "亚瑟·叔本华",
+      "name_en": "Arthur Schopenhauer",
+      "category": "philosophy",
+      "status": "L1_complete",
+      "theories": 5,
+      "quotes": 10,
+      "trained_date": "2025-05-24",
+      "score": 100
+    },
+    "milan-kundera": {
+      "name": "米兰·昆德拉",
+      "name_en": "Milan Kundera",
+      "category": "philosophy",
+      "status": "L1_complete",
+      "theories": 6,
+      "quotes": 10,
+      "trained_date": "2025-05-24",
+      "score": 82
+    },
+    "kevin-kelly": {
+      "name": "凯文·凯利",
+      "name_en": "Kevin Kelly",
+      "category": "technology",
+      "status": "L1_complete",
+      "theories": 5,
+      "quotes": 8,
+      "trained_date": "2025-05-24",
+      "score": 88
+    },
+    "ray-kurzweil": {
+      "name": "雷·库兹韦尔",
+      "name_en": "Ray Kurzweil",
+      "category": "technology",
+      "status": "L1_complete",
+      "theories": 5,
+      "quotes": 8,
+      "trained_date": "2025-05-24",
+      "score": 85
+    },
+    "yuval-harari": {
+      "name": "尤瓦尔·赫拉利",
+      "name_en": "Yuval Noah Harari",
+      "category": "technology",
+      "status": "L1_complete",
+      "theories": 5,
+      "quotes": 10,
+      "trained_date": "2025-05-24",
+      "score": 88
+    },
+    "wu-jun": {
+      "name": "吴军",
+      "name_en": "Wu Jun",
+      "category": "technology",
+      "status": "L1_complete",
+      "theories": 5,
+      "quotes": 8,
+      "trained_date": "2025-05-24",
+      "score": 85
+    },
+    "nick-bostrom": {
+      "name": "尼克·博斯特罗姆",
+      "name_en": "Nick Bostrom",
+      "category": "technology",
+      "status": "L1_complete",
+      "theories": 5,
+      "quotes": 8,
+      "trained_date": "2025-05-24",
+      "score": 88
     }
   }
 }
