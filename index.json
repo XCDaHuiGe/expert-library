@@ -28,7 +28,7 @@
     },
     "economics": {
       "name": "经济金融",
-      "experts": ["warren-buffett", "charlie-munger", "ray-dalio", "nassim-taleb", "robert-shiller"]
+      "experts": ["warren-buffett", "charlie-munger", "ray-dalio", "nassim-taleb", "robert-shiller", "adam-smith"]
     },
     "science": {
       "name": "科学科普",
@@ -356,6 +356,16 @@
       "theories": 3,
       "quotes": 7,
       "trained_date": "2025-05-24"
+    },
+    "adam-smith": {
+      "name": "亚当·斯密",
+      "name_en": "Adam Smith",
+      "category": "economics",
+      "status": "L1_complete",
+      "theories": 6,
+      "quotes": 10,
+      "trained_date": "2025-05-24",
+      "score": 86
     },
     "stephen-hawking": {
       "name": "斯蒂芬·霍金",
