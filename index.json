@@ -1,0 +1,471 @@
+{
+  "version": "2.0",
+  "last_updated": "2025-05-24",
+  "categories": {
+    "business": {
+      "name": "商业管理",
+      "experts": ["peter-drucker", "jim-collins", "inamori-kazuo", "michael-porter", "clayton-christensen", "jack-welch"]
+    },
+    "psychology": {
+      "name": "心理学",
+      "experts": ["daniel-kahneman", "philip-zimbardo", "martin-seligman", "daniel-goleman", "stanislas-dehaene"]
+    },
+    "philosophy": {
+      "name": "文学哲学",
+      "experts": ["friedrich-nietzsche", "jean-paul-sartre", "albert-camus", "arthur-schopenhauer", "milan-kundera", "italo-calvino"]
+    },
+    "technology": {
+      "name": "科技AI",
+      "experts": ["kevin-kelly", "ray-kurzweil", "yuval-harari", "wu-jun", "nick-bostrom"]
+    },
+    "history": {
+      "name": "历史传记",
+      "experts": ["stavrianos", "stefan-zweig"]
+    },
+    "self-help": {
+      "name": "自助成长",
+      "experts": ["stephen-covey", "malcolm-gladwell", "dale-carnegie", "napoleon-hill"]
+    },
+    "economics": {
+      "name": "经济金融",
+      "experts": ["warren-buffett", "charlie-munger", "ray-dalio", "nassim-taleb", "robert-shiller", "adam-smith"]
+    },
+    "science": {
+      "name": "科学科普",
+      "experts": ["stephen-hawking", "richard-dawkins", "carl-sagan", "richard-feynman", "jared-diamond"]
+    },
+    "cross-domain": {
+      "name": "跨界专家",
+      "experts": ["socrates", "laozi", "steve-jobs", "alan-turing", "wan-weigang"]
+    }
+  },
+  "experts": {
+    "peter-drucker": {
+      "name": "彼得·德鲁克",
+      "name_en": "Peter Drucker",
+      "category": "business",
+      "status": "L1_complete",
+      "theories": 4,
+      "quotes": 7,
+      "trained_date": "2025-05-17"
+    },
+    "jim-collins": {
+      "name": "吉姆·柯林斯",
+      "name_en": "Jim Collins",
+      "category": "business",
+      "status": "L1_complete",
+      "theories": 8,
+      "quotes": 8,
+      "trained_date": "2025-05-24"
+    },
+    "inamori-kazuo": {
+      "name": "稻盛和夫",
+      "name_en": "Kazuo Inamori",
+      "category": "business",
+      "status": "L1_complete",
+      "theories": 6,
+      "quotes": 9,
+      "trained_date": "2025-05-24"
+    },
+    "michael-porter": {
+      "name": "迈克尔·波特",
+      "name_en": "Michael Porter",
+      "category": "business",
+      "status": "L1_complete",
+      "theories": 5,
+      "quotes": 8,
+      "trained_date": "2025-05-24"
+    },
+    "clayton-christensen": {
+      "name": "克莱顿·克里斯坦森",
+      "name_en": "Clayton Christensen",
+      "category": "business",
+      "status": "L1_complete",
+      "theories": 6,
+      "quotes": 8,
+      "trained_date": "2025-05-24"
+    },
+    "jack-welch": {
+      "name": "杰克·韦尔奇",
+      "name_en": "Jack Welch",
+      "category": "business",
+      "status": "L1_complete",
+      "theories": 6,
+      "quotes": 9,
+      "trained_date": "2025-05-24"
+    },
+    "daniel-kahneman": {
+      "name": "丹尼尔·卡尼曼",
+      "name_en": "Daniel Kahneman",
+      "category": "psychology",
+      "status": "L1_complete",
+      "theories": 6,
+      "quotes": 8,
+      "trained_date": "2025-05-24"
+    },
+    "philip-zimbardo": {
+      "name": "菲利普·津巴多",
+      "name_en": "Philip Zimbardo",
+      "category": "psychology",
+      "status": "L1_complete",
+      "theories": 5,
+      "quotes": 8,
+      "trained_date": "2025-05-24"
+    },
+    "martin-seligman": {
+      "name": "马丁·塞利格曼",
+      "name_en": "Martin Seligman",
+      "category": "psychology",
+      "status": "L1_complete",
+      "theories": 5,
+      "quotes": 8,
+      "trained_date": "2025-05-24"
+    },
+    "daniel-goleman": {
+      "name": "丹尼尔·戈尔曼",
+      "name_en": "Daniel Goleman",
+      "category": "psychology",
+      "status": "L1_complete",
+      "theories": 5,
+      "quotes": 8,
+      "trained_date": "2025-05-24",
+      "score": 85
+    },
+    "stanislas-dehaene": {
+      "name": "斯坦尼斯拉斯·迪昂",
+      "name_en": "Stanislas Dehaene",
+      "category": "psychology",
+      "status": "L1_complete",
+      "theories": 5,
+      "quotes": 10,
+      "trained_date": "2025-05-24",
+      "score": 85
+    },
+    "friedrich-nietzsche": {
+      "name": "弗里德里希·尼采",
+      "name_en": "Friedrich Nietzsche",
+      "category": "philosophy",
+      "status": "L1_complete",
+      "theories": 5,
+      "quotes": 10,
+      "trained_date": "2025-05-24",
+      "score": 100
+    },
+    "jean-paul-sartre": {
+      "name": "让-保罗·萨特",
+      "name_en": "Jean-Paul Sartre",
+      "category": "philosophy",
+      "status": "L1_complete",
+      "theories": 6,
+      "quotes": 10,
+      "trained_date": "2025-05-24",
+      "score": 85
+    },
+    "albert-camus": {
+      "name": "阿尔贝·加缪",
+      "name_en": "Albert Camus",
+      "category": "philosophy",
+      "status": "L1_complete",
+      "theories": 6,
+      "quotes": 10,
+      "trained_date": "2025-05-24",
+      "score": 85
+    },
+    "arthur-schopenhauer": {
+      "name": "亚瑟·叔本华",
+      "name_en": "Arthur Schopenhauer",
+      "category": "philosophy",
+      "status": "L1_complete",
+      "theories": 5,
+      "quotes": 10,
+      "trained_date": "2025-05-24",
+      "score": 100
+    },
+    "milan-kundera": {
+      "name": "米兰·昆德拉",
+      "name_en": "Milan Kundera",
+      "category": "philosophy",
+      "status": "L1_complete",
+      "theories": 6,
+      "quotes": 10,
+      "trained_date": "2025-05-24",
+      "score": 82
+    },
+    "italo-calvino": {
+      "name": "伊塔洛·卡尔维诺",
+      "name_en": "Italo Calvino",
+      "category": "philosophy",
+      "status": "L1_complete",
+      "theories": 5,
+      "quotes": 10,
+      "trained_date": "2025-05-24",
+      "score": 78
+    },
+    "kevin-kelly": {
+      "name": "凯文·凯利",
+      "name_en": "Kevin Kelly",
+      "category": "technology",
+      "status": "L1_complete",
+      "theories": 5,
+      "quotes": 8,
+      "trained_date": "2025-05-24",
+      "score": 88
+    },
+    "ray-kurzweil": {
+      "name": "雷·库兹韦尔",
+      "name_en": "Ray Kurzweil",
+      "category": "technology",
+      "status": "L1_complete",
+      "theories": 5,
+      "quotes": 8,
+      "trained_date": "2025-05-24",
+      "score": 85
+    },
+    "yuval-harari": {
+      "name": "尤瓦尔·赫拉利",
+      "name_en": "Yuval Noah Harari",
+      "category": "technology",
+      "status": "L1_complete",
+      "theories": 5,
+      "quotes": 10,
+      "trained_date": "2025-05-24",
+      "score": 88
+    },
+    "wu-jun": {
+      "name": "吴军",
+      "name_en": "Wu Jun",
+      "category": "technology",
+      "status": "L1_complete",
+      "theories": 5,
+      "quotes": 8,
+      "trained_date": "2025-05-24",
+      "score": 85
+    },
+    "nick-bostrom": {
+      "name": "尼克·博斯特罗姆",
+      "name_en": "Nick Bostrom",
+      "category": "technology",
+      "status": "L1_complete",
+      "theories": 5,
+      "quotes": 8,
+      "trained_date": "2025-05-24",
+      "score": 88
+    },
+    "stavrianos": {
+      "name": "斯塔夫里阿诺斯",
+      "name_en": "L.S. Stavrianos",
+      "category": "history",
+      "status": "L1_complete",
+      "theories": 5,
+      "quotes": 8,
+      "trained_date": "2025-05-24",
+      "score": 82
+    },
+    "stefan-zweig": {
+      "name": "斯蒂芬·茨威格",
+      "name_en": "Stefan Zweig",
+      "category": "history",
+      "status": "L1_complete",
+      "theories": 4,
+      "quotes": 10,
+      "trained_date": "2025-05-24",
+      "score": 85
+    },
+    "stephen-covey": {
+      "name": "史蒂芬·柯维",
+      "name_en": "Stephen Covey",
+      "category": "self-help",
+      "status": "L1_complete",
+      "theories": 6,
+      "quotes": 10,
+      "trained_date": "2025-05-24",
+      "score": 85
+    },
+    "malcolm-gladwell": {
+      "name": "马尔科姆·格拉德威尔",
+      "name_en": "Malcolm Gladwell",
+      "category": "self-help",
+      "status": "L1_complete",
+      "theories": 6,
+      "quotes": 12,
+      "trained_date": "2025-05-24",
+      "score": 82
+    },
+    "dale-carnegie": {
+      "name": "戴尔·卡耐基",
+      "name_en": "Dale Carnegie",
+      "category": "self-help",
+      "status": "L1_complete",
+      "theories": 5,
+      "quotes": 10,
+      "trained_date": "2025-05-24",
+      "score": 82
+    },
+    "napoleon-hill": {
+      "name": "拿破仑·希尔",
+      "name_en": "Napoleon Hill",
+      "category": "self-help",
+      "status": "L1_complete",
+      "theories": 4,
+      "quotes": 10,
+      "trained_date": "2025-05-24",
+      "score": 78
+    },
+    "warren-buffett": {
+      "name": "沃伦·巴菲特",
+      "name_en": "Warren Buffett",
+      "category": "economics",
+      "status": "L1_complete",
+      "theories": 4,
+      "quotes": 8,
+      "trained_date": "2025-05-24"
+    },
+    "charlie-munger": {
+      "name": "查理·芒格",
+      "name_en": "Charlie Munger",
+      "category": "economics",
+      "status": "L1_complete",
+      "theories": 4,
+      "quotes": 9,
+      "trained_date": "2025-05-24",
+      "score": 85
+    },
+    "ray-dalio": {
+      "name": "瑞·达利欧",
+      "name_en": "Ray Dalio",
+      "category": "economics",
+      "status": "L1_complete",
+      "theories": 4,
+      "quotes": 8,
+      "trained_date": "2025-05-24"
+    },
+    "nassim-taleb": {
+      "name": "纳西姆·塔勒布",
+      "name_en": "Nassim Taleb",
+      "category": "economics",
+      "status": "L1_complete",
+      "theories": 3,
+      "quotes": 7,
+      "trained_date": "2025-05-24"
+    },
+    "robert-shiller": {
+      "name": "罗伯特·席勒",
+      "name_en": "Robert Shiller",
+      "category": "economics",
+      "status": "L1_complete",
+      "theories": 3,
+      "quotes": 7,
+      "trained_date": "2025-05-24"
+    },
+    "adam-smith": {
+      "name": "亚当·斯密",
+      "name_en": "Adam Smith",
+      "category": "economics",
+      "status": "L1_complete",
+      "theories": 6,
+      "quotes": 10,
+      "trained_date": "2025-05-24",
+      "score": 86
+    },
+    "stephen-hawking": {
+      "name": "斯蒂芬·霍金",
+      "name_en": "Stephen Hawking",
+      "category": "science",
+      "status": "L1_complete",
+      "theories": 5,
+      "quotes": 8,
+      "trained_date": "2025-05-24",
+      "score": 88
+    },
+    "richard-dawkins": {
+      "name": "理查德·道金斯",
+      "name_en": "Richard Dawkins",
+      "category": "science",
+      "status": "L1_complete",
+      "theories": 5,
+      "quotes": 10,
+      "trained_date": "2025-05-24",
+      "score": 86
+    },
+    "carl-sagan": {
+      "name": "卡尔·萨根",
+      "name_en": "Carl Sagan",
+      "category": "science",
+      "status": "L1_complete",
+      "theories": 5,
+      "quotes": 8,
+      "trained_date": "2025-05-24",
+      "score": 85
+    },
+    "richard-feynman": {
+      "name": "理查德·费曼",
+      "name_en": "Richard Feynman",
+      "category": "science",
+      "status": "L1_complete",
+      "theories": 5,
+      "quotes": 8,
+      "trained_date": "2025-05-24",
+      "score": 92
+    },
+    "jared-diamond": {
+      "name": "贾雷德·戴蒙德",
+      "name_en": "Jared Diamond",
+      "category": "science",
+      "status": "L1_complete",
+      "theories": 5,
+      "quotes": 8,
+      "trained_date": "2025-05-24",
+      "score": 82
+    },
+    "socrates": {
+      "name": "苏格拉底",
+      "name_en": "Socrates",
+      "category": "cross-domain",
+      "status": "L1_complete",
+      "theories": 4,
+      "quotes": 8,
+      "trained_date": "2025-05-24",
+      "score": 80
+    },
+    "laozi": {
+      "name": "老子",
+      "name_en": "Laozi",
+      "category": "cross-domain",
+      "status": "L1_complete",
+      "theories": 4,
+      "quotes": 10,
+      "trained_date": "2025-05-24",
+      "score": 84
+    },
+    "steve-jobs": {
+      "name": "史蒂夫·乔布斯",
+      "name_en": "Steve Jobs",
+      "category": "cross-domain",
+      "status": "L1_complete",
+      "theories": 4,
+      "quotes": 12,
+      "trained_date": "2025-05-24",
+      "score": 86
+    },
+    "alan-turing": {
+      "name": "艾伦·图灵",
+      "name_en": "Alan Turing",
+      "category": "cross-domain",
+      "status": "L1_complete",
+      "theories": 5,
+      "quotes": 9,
+      "trained_date": "2025-05-24",
+      "score": 86
+    },
+    "wan-weigang": {
+      "name": "万维钢",
+      "name_en": "Wan Weigang",
+      "category": "cross-domain",
+      "status": "L1_complete",
+      "theories": 6,
+      "quotes": 12,
+      "trained_date": "2025-05-24",
+      "score": 88
+    }
+  }
+}
