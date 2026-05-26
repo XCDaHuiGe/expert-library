@@ -1,6 +1,6 @@
 {
-  "version": "2.0",
-  "last_updated": "2025-05-24",
+  "version": "2.1",
+  "last_updated": "2026-05-26",
   "categories": {
     "business": {
       "name": "商业管理",
@@ -37,6 +37,10 @@
     "cross-domain": {
       "name": "跨界专家",
       "experts": ["socrates", "laozi", "steve-jobs", "alan-turing", "wan-weigang"]
+    },
+    "chinese-intellectuals": {
+      "name": "中文知识分子/媒体人",
+      "experts": ["dou-wentao", "luo-xiang", "liu-run", "li-dan", "liang-wendao", "feng-tang", "wu-xiaobo", "xiang-biao", "yu-hua", "xu-zhiyuan"]
     }
   },
   "experts": {
@@ -466,6 +470,106 @@
       "quotes": 12,
       "trained_date": "2025-05-24",
       "score": 88
+    },
+    "dou-wentao": {
+      "name": "窦文涛",
+      "name_en": "Dou Wentao",
+      "category": "chinese-intellectuals",
+      "status": "L1_complete",
+      "theories": 4,
+      "quotes": 10,
+      "trained_date": "2026-05-26",
+      "score": 80
+    },
+    "luo-xiang": {
+      "name": "罗翔",
+      "name_en": "Luo Xiang",
+      "category": "chinese-intellectuals",
+      "status": "L1_complete",
+      "theories": 6,
+      "quotes": 15,
+      "trained_date": "2026-05-26",
+      "score": 86
+    },
+    "liu-run": {
+      "name": "刘润",
+      "name_en": "Liu Run",
+      "category": "chinese-intellectuals",
+      "status": "L1_complete",
+      "theories": 6,
+      "quotes": 10,
+      "trained_date": "2026-05-26",
+      "score": 83
+    },
+    "li-dan": {
+      "name": "李诞",
+      "name_en": "Li Dan",
+      "category": "chinese-intellectuals",
+      "status": "L1_complete",
+      "theories": 5,
+      "quotes": 14,
+      "trained_date": "2026-05-26",
+      "score": 78
+    },
+    "liang-wendao": {
+      "name": "梁文道",
+      "name_en": "Liang Wendao",
+      "category": "chinese-intellectuals",
+      "status": "L1_complete",
+      "theories": 5,
+      "quotes": 12,
+      "trained_date": "2026-05-26",
+      "score": 82
+    },
+    "feng-tang": {
+      "name": "冯唐",
+      "name_en": "Feng Tang",
+      "category": "chinese-intellectuals",
+      "status": "L1_complete",
+      "theories": 6,
+      "quotes": 17,
+      "trained_date": "2026-05-26",
+      "score": 81
+    },
+    "wu-xiaobo": {
+      "name": "吴晓波",
+      "name_en": "Wu Xiaobo",
+      "category": "chinese-intellectuals",
+      "status": "L1_complete",
+      "theories": 5,
+      "quotes": 12,
+      "trained_date": "2026-05-26",
+      "score": 84
+    },
+    "xiang-biao": {
+      "name": "项飙",
+      "name_en": "Xiang Biao",
+      "category": "chinese-intellectuals",
+      "status": "L1_complete",
+      "theories": 6,
+      "quotes": 12,
+      "trained_date": "2026-05-26",
+      "score": 88
+    },
+    "yu-hua": {
+      "name": "余华",
+      "name_en": "Yu Hua",
+      "category": "chinese-intellectuals",
+      "status": "L1_complete",
+      "theories": 5,
+      "quotes": 12,
+      "trained_date": "2026-05-26",
+      "score": 85
+    },
+    "xu-zhiyuan": {
+      "name": "许知远",
+      "name_en": "Xu Zhiyuan",
+      "category": "chinese-intellectuals",
+      "status": "L1_complete",
+      "theories": 6,
+      "quotes": 14,
+      "trained_date": "2026-05-26",
+      "score": 83
     }
   }
 }
